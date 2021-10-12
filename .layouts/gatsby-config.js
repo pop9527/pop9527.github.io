@@ -1,13 +1,13 @@
 const path = require("path");
 const pathPrefix = "/";
 const siteMetadata = {
-  title: "Foam Template for Gatsby Theme Primer Wiki",
+  title: "pop9527",
   shortName: "Wiki",
   description:
     "Another Foam template that use gatsby-theme-primer-wiki, Welcome to your new Foam Knowledge Base!",
-  twitterName: "theowenyoung",
+  twitterName: "",
   imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "https://demo-foam.owenyoung.com",
+  siteUrl: "https://pop9527.github.io",
 };
 module.exports = {
   siteMetadata,
