@@ -27,18 +27,8 @@ module.exports = {
     {
       resolve: "gatsby-theme-primer-wiki",
       options: {
-        nav: [
-          {
-            title: "Github",
-            url: "https://github.com/theowenyoung/foam-template-gatsby-theme-primer-wiki/",
-          },
-          {
-            title: "Twitter",
-            url: "https://twitter.com/theowenyoung",
-          },
-        ],
-        editUrl:
-          "https://github.com/theowenyoung/foam-template-gatsby-theme-primer-wiki/tree/main/",
+        nav: [],
+        editUrl: "https://github.com/pop9527/pop9527.github.io/tree/main/",
       },
     },
     {
